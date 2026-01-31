@@ -5,8 +5,6 @@
 This project presents an interactive Power BI dashboard designed to analyze product sales performance in 2026.
 The dashboard helps identify trends, top-performing products, and sales patterns across regions and categories.
 
-🖼️ Dashboard Preview
-
 📈 Key KPIs
 
 Total Sales Revenue
